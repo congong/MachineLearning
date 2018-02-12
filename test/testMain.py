@@ -6,6 +6,8 @@ import numpy as np
 print "start::", getTime()
 
 # Fibonacci.fib()
+Fibonacci.fib(7,1,1)
+
 
 
 

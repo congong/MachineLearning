@@ -5,7 +5,7 @@ import numpy as np
 
 print "start::", getTime()
 
-Fibonacci.fib()
+# Fibonacci.fib()
 
 
 
